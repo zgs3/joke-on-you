@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/joke-on-you/static/css/main.11900abf.css",
+    "main.js": "/joke-on-you/static/js/main.5ab71112.js",
+    "static/js/787.67a09eeb.chunk.js": "/joke-on-you/static/js/787.67a09eeb.chunk.js",
+    "static/media/background.jpg": "/joke-on-you/static/media/background.9ef78f5a29de924f68b2.jpg",
+    "static/media/joke2.png": "/joke-on-you/static/media/joke2.8bf74f62a8f64559f1f6.png",
+    "index.html": "/joke-on-you/index.html",
+    "main.11900abf.css.map": "/joke-on-you/static/css/main.11900abf.css.map",
+    "main.5ab71112.js.map": "/joke-on-you/static/js/main.5ab71112.js.map",
+    "787.67a09eeb.chunk.js.map": "/joke-on-you/static/js/787.67a09eeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11900abf.css",
+    "static/js/main.5ab71112.js"
+  ]
+}
