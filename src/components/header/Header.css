@@ -1,0 +1,32 @@
+.headerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: calc(4vw);
+  margin: 2rem 0 1rem;
+  text-shadow: 0px 5px 5px rgba(255, 255, 255, 0.9);
+  letter-spacing: .5rem;
+}
+
+.joke2 {
+  height: 6rem;
+  margin-left: 2rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .joke2 {
+   animation: icon-spin infinite 5s linear;
+ }
+}
+
+@keyframes icon-spin {
+ from {
+   transform: rotate(0deg);
+ }
+ to {
+   transform: rotate(360deg);
+ }
+}
